@@ -6,13 +6,13 @@ This index is a draft. A file is mapped to a job only when a check's tag already
 
 ## Use this file when the tag already names the job
 
-- Hook, headline, subject line, lead, first 10 lines, or an opening lede: `hooks.md`.
+- Hook, headline, subject line, lead, first 10 lines, an opening lede, or a VSL opening: `hooks.md`.
 - Cadence, story pace, VSL delivery, projection flow, or long-form sales-letter ambience: `flow.md`. The causal-chain check tagged `stage: flow` is in `transitions.md`.
 - CTA, P.S., guarantee, offer section, cart sequence, welcome email 1, or presale emails tagged PPLC, PLC1, PLC2, PLC3, and PLC4: `closes.md`.
 - Liftnote subject-line-to-body, a section transition, or an upsell transition: `transitions.md`. The sales-letter order check names the vehicle and leaves the stage `unclear`, so it is not a job assignment.
 - Liftnote first sentence ("you"): `pov-tense.md`. That file has no tense checks.
 - Headline power words, including the high-end status words and the "skyrocket / unlock / elevate" ban: `word-choice.md`.
-- Long-form story, short-form story, social post, or a sales-letter story used as hook, explanation, or proof: `stories.md`.
+- Long-form story, short-form story, social post, a sales-letter story used as hook, explanation, or proof, or the Resistance beat: `stories.md`. A fictional story is named as a vehicle. Its stage is `unclear`.
 
 ## Do not assign yet
 

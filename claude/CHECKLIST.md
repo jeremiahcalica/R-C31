@@ -10,6 +10,7 @@ Yes/no checks for a draft, merged where lessons overlap. No rule was added from 
 - [ ] Is the reader the hero, and the speaker a guide who has been through it? [copywriting-lessons-days-2-28.md] {vehicle: unclear | stage: unclear}
 - [ ] Does the liftnote put "you" in the first sentence, or reach the reader at once, even if the story is about someone else? [copywriting-lessons-days-2-28.md] {vehicle: liftnote | stage: first sentence}
 - [ ] Does it avoid repeating the reader's first name sentence after sentence? [quiet-persuasion.md] {vehicle: unclear | stage: unclear}
+- [ ] Does "them" read as one person, rather than as "a group of people"? [quiet-persuasion.md] {vehicle: unclear | stage: unclear}
 
 ## Tense
 
@@ -29,6 +30,7 @@ No lesson states a past, present, or future tense rule. No tense check was writt
 ## Flow and cadence
 
 - [ ] Are about 80% of sentences medium or short, about 20% long, and mixed so one length does not clump? [copywriting-lessons-days-2-28.md] {vehicle: unclear | stage: cadence}
+- [ ] Do similar arguments sit in the same paragraph? [copywriting-lessons-days-2-28.md] {vehicle: unclear | stage: cadence}
 - [ ] Does each sentence hold one idea, with a period or ellipsis instead of a comma between two breaths, and commas kept for lists? [copywriting-lessons-days-2-28.md] {vehicle: unclear | stage: cadence}
 - [ ] Can it be read aloud without a stumble, and was any sentence that needs two breaths split? [copywriting-lessons-days-2-28.md] {vehicle: unclear | stage: cadence}
 - [ ] Do the sales letter's first lines start in the action, and would cutting the first six sentences leave a stronger letter? [copywriting-lessons-days-2-28.md] {vehicle: sales letter | stage: first lines}
@@ -36,6 +38,7 @@ No lesson states a past, present, or future tense rule. No tense check was writt
 - [ ] Are urgent moments in short sentences, and anticipation or calm in longer ones? [copywriting-lessons-days-2-28.md] {vehicle: story | stage: pace}
 - [ ] Is the VSL punchy, with spoken pauses and fillers, a brisk unhurried tempo, and a pause after a key point? [copywriting-lessons-days-2-28.md] {vehicle: VSL | stage: delivery}
 - [ ] Does the projected future name something a person can see or hold, not a blanket line like "we all want our kids to be healthy"? [quiet-persuasion.md] {vehicle: unclear | stage: flow}
+- [ ] Does the piece solve an immediate problem first, and only then name the identity change, as in "Product X solves immediate problem Y, and allows you to become person Z," rather than "Become Y person by buying product X"? [quiet-persuasion.md] {vehicle: unclear | stage: flow}
 - [ ] In the long-form sales letter, does the story's place come through sight, sound, smell, taste, or touch? [copywriting-lessons-days-2-28.md] {vehicle: long form sales letter | stage: ambience}
 
 ## Hooks
@@ -56,6 +59,7 @@ No lesson states a past, present, or future tense rule. No tense check was writt
 - [ ] Does the liftnote open in a short sentence or short paragraph, with a promise or intrigue at once? [copywriting-lessons-days-2-28.md] {vehicle: liftnote | stage: opening}
 - [ ] Is the liftnote subject line short and specific, with an immediate benefit, and free of a shame line such as "you'll always be a victim"? [copywriting-lessons-days-2-28.md] {vehicle: liftnote | stage: subject line}
 - [ ] Does the advertorial inform and build desire without a direct hard sell, and with the obvious hype kept low? [copywriting-lessons-days-2-28.md] {vehicle: advertorial | stage: unclear}
+- [ ] Does the VSL opening hit hard and stay visual and believable, without a Hollywood scene, and without requiring the promise inside the first 10 seconds? [copywriting-lessons-days-2-28.md] {vehicle: VSL | stage: opening}
 - [ ] Does the advertorial hook name who it is for and a benefit, in a pattern the lesson gives (weird product, authority, easy fix, list, goodbye-problem, "who else," everyday result, or doctor claim)? [copywriting-lessons-days-2-28.md] {vehicle: advertorial | stage: hook}
 
 ## Closes and CTAs
@@ -73,6 +77,9 @@ No lesson states a past, present, or future tense rule. No tense check was writt
 - [ ] Is the downsell a lighter commitment, not a discount that trains him to skip the expensive offer? [copywriting-lessons-days-2-28.md] {vehicle: downsell | stage: unclear}
 - [ ] If the upsell is a one-time discount, does that discount exist only on this upsell page? [copywriting-lessons-days-2-28.md] {vehicle: upsell | stage: unclear}
 - [ ] If the price is anchored, is the anchor tied to this product, not an unmodified "cup of coffee a day"? [copywriting-lessons-days-2-28.md] {vehicle: offer section | stage: offer}
+- [ ] In a regulated market, is the guarantee more service, rather than a promise of a results refund? [copywriting-lessons-days-2-28.md] {vehicle: guarantee | stage: guarantee}
+- [ ] Are the strongest testimonials placed first? [copywriting-lessons-days-2-28.md] {vehicle: sales letter | stage: testimonials}
+- [ ] Does the close say what he must do next — the click, the form, the confirmation, and when the product arrives — without treating any of that as obvious? [quiet-persuasion.md] {vehicle: unclear | stage: action}
 - [ ] Is the cross-sell a different product that finishes the job, clearly connected, without a hard push or a pile of extras? [copywriting-lessons-days-2-28.md] {vehicle: cross-sell | stage: unclear}
 - [ ] Does welcome email 1 give the best promise and the offer at once, in benefits, in a confident voice? [copywriting-lessons-days-2-28.md] {vehicle: welcome sequence | stage: email 1}
 - [ ] Does each presale email do only its job — tease, why, what, how, or the bridge to the product — and tie intrigue to a concrete benefit? [copywriting-lessons-days-2-28.md] {vehicle: presale sequence | stage: PPLC, PLC1, PLC2, PLC3, PLC4}
@@ -109,6 +116,7 @@ No lesson states a past, present, or future tense rule. No tense check was writt
 - [ ] Does the liftnote subject line use an action verb, and drop filler, adverbs, and "very"? [copywriting-lessons-days-2-28.md] {vehicle: liftnote | stage: subject line}
 - [ ] Does every feature survive a "so what?" that lands on his life, not on another feature? [copywriting-lessons-days-2-28.md] {vehicle: unclear | stage: unclear}
 - [ ] Does the wording use his jargon, tone, and sentence shape, without parroting his lines? [quiet-persuasion.md] {vehicle: unclear | stage: unclear}
+- [ ] Where the moment is uncertain, are "explosive" and "massive" absent, with "stable," "resilient," or "sustainable" in their place when a reassurance word is needed? [quiet-persuasion.md] {vehicle: unclear | stage: unclear}
 - [ ] If a headline uses a power word, does that word have one job, and is the stack thin? [copywriting-lessons-days-2-28.md] {vehicle: headline | stage: hook}
 - [ ] If the headline is for a high-end product, does it use a status word such as Exclusive, Premium, or Elite? [copywriting-lessons-days-2-28.md] {vehicle: headline | stage: hook}
 - [ ] Are these absent: "It is not your fault," "You are not alone," "I help busy ___," "100% money back guarantee," "Look at this image," "Just imagine," "We've got you covered," "This changes everything," "Supercharge," "Elevate," "Skyrocket," "Optimize," "Unleash," "Level up," "Take it to the next level," "In today's day and age," "Elite," "Exclusive," "Premium," "Revolutionary"? [quiet-persuasion.md] {vehicle: persuasion attempt | stage: unclear}
@@ -124,3 +132,5 @@ No lesson states a past, present, or future tense rule. No tense check was writt
 - [ ] Does the social post tell one core idea, in one post or split on purpose, short because he will be distracted? [copywriting-lessons-days-2-28.md] {vehicle: social media post | stage: unclear}
 - [ ] In the sales letter, does each story do one job — hook, mechanism, or proof — and stay a support for the solution? [copywriting-lessons-days-2-28.md] {vehicle: sales letter | stage: hook, explanation, or evidence}
 - [ ] Is a result shown in a scene, not named with a label such as "she was nervous" or "our product is effective"? [copywriting-lessons-days-2-28.md] {vehicle: unclear | stage: unclear}
+- [ ] Does the story acknowledge his doubts, instead of skipping that beat? [copywriting-lessons-days-2-28.md] {vehicle: unclear | stage: Resistance}
+- [ ] If the story is fictional, is it still rooted in something real, with flawed people and without an over-dramatic event? [copywriting-lessons-days-2-28.md] {vehicle: fictional story | stage: unclear}

@@ -10,6 +10,7 @@ Same checks as `CHECKLIST.md`. Tags stay `unclear` unless the lesson names the v
 - [ ] Is the reader the hero, and the speaker a guide who has been through it? [copywriting-lessons-days-2-28.md] {vehicle: unclear | stage: unclear}
 - [ ] Does the liftnote put "you" in the first sentence, or reach the reader at once, even if the story is about someone else? [copywriting-lessons-days-2-28.md] {vehicle: liftnote | stage: first sentence}
 - [ ] Does it avoid repeating the reader's first name sentence after sentence? [quiet-persuasion.md] {vehicle: unclear | stage: unclear}
+- [ ] Does "them" read as one person, rather than as "a group of people"? [quiet-persuasion.md] {vehicle: unclear | stage: unclear}
 
 ## Tense
 

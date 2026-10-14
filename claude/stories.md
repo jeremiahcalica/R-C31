@@ -10,6 +10,8 @@ Same checks as `CHECKLIST.md`. Day 28 is the source for every check below.
 - [ ] Does the social post tell one core idea, in one post or split on purpose, short because he will be distracted? [copywriting-lessons-days-2-28.md] {vehicle: social media post | stage: unclear}
 - [ ] In the sales letter, does each story do one job — hook, mechanism, or proof — and stay a support for the solution? [copywriting-lessons-days-2-28.md] {vehicle: sales letter | stage: hook, explanation, or evidence}
 - [ ] Is a result shown in a scene, not named with a label such as "she was nervous" or "our product is effective"? [copywriting-lessons-days-2-28.md] {vehicle: unclear | stage: unclear}
+- [ ] Does the story acknowledge his doubts, instead of skipping that beat? [copywriting-lessons-days-2-28.md] {vehicle: unclear | stage: Resistance}
+- [ ] If the story is fictional, is it still rooted in something real, with flawed people and without an over-dramatic event? [copywriting-lessons-days-2-28.md] {vehicle: fictional story | stage: unclear}
 
 ## Examples from the lessons
 

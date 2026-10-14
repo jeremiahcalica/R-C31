@@ -18,6 +18,7 @@ Same checks as `CHECKLIST.md`.
 - [ ] Does the liftnote open in a short sentence or short paragraph, with a promise or intrigue at once? [copywriting-lessons-days-2-28.md] {vehicle: liftnote | stage: opening}
 - [ ] Is the liftnote subject line short and specific, with an immediate benefit, and free of a shame line such as "you'll always be a victim"? [copywriting-lessons-days-2-28.md] {vehicle: liftnote | stage: subject line}
 - [ ] Does the advertorial inform and build desire without a direct hard sell, and with the obvious hype kept low? [copywriting-lessons-days-2-28.md] {vehicle: advertorial | stage: unclear}
+- [ ] Does the VSL opening hit hard and stay visual and believable, without a Hollywood scene, and without requiring the promise inside the first 10 seconds? [copywriting-lessons-days-2-28.md] {vehicle: VSL | stage: opening}
 - [ ] Does the advertorial hook name who it is for and a benefit, in a pattern the lesson gives (weird product, authority, easy fix, list, goodbye-problem, "who else," everyday result, or doctor claim)? [copywriting-lessons-days-2-28.md] {vehicle: advertorial | stage: hook}
 
 ## Example from the lessons
@@ -43,5 +44,21 @@ The same lesson rejects the subject line "you'll always be a victim." It does no
 Source: [copywriting-lessons-days-2-28.md] {vehicle: liftnote | stage: subject line}
 
 The lesson's own fascination specimens, not a rewrite: "Bills it's OK to pay late" and "What never to eat on an airplane."
+
+Source: [copywriting-lessons-days-2-28.md] {vehicle: fascination | stage: hook}
+
+Day 14 builds one fascination in three steps.
+
+Before: "This stretch will increase your deadlift."
+
+After the specificity step: "This stretch will add 25 pounds to your deadlift on your next workout."
+
+After credibility and curiosity: "Powerlifting legend Ed Coan - who holds 71 world records - shares his unconventional 'couch stretch' that is guaranteed to add 25 pounds to your deadlift on your next workout."
+
+The same lesson adds the missing "so what?":
+
+Before: "The exercises to avoid for your body type and drastically reduce your risk of injury..."
+
+After: "...so you never have to take time away from training."
 
 Source: [copywriting-lessons-days-2-28.md] {vehicle: fascination | stage: hook}

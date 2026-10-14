@@ -15,6 +15,9 @@ Same checks as `CHECKLIST.md`.
 - [ ] Is the downsell a lighter commitment, not a discount that trains him to skip the expensive offer? [copywriting-lessons-days-2-28.md] {vehicle: downsell | stage: unclear}
 - [ ] If the upsell is a one-time discount, does that discount exist only on this upsell page? [copywriting-lessons-days-2-28.md] {vehicle: upsell | stage: unclear}
 - [ ] If the price is anchored, is the anchor tied to this product, not an unmodified "cup of coffee a day"? [copywriting-lessons-days-2-28.md] {vehicle: offer section | stage: offer}
+- [ ] In a regulated market, is the guarantee more service, rather than a promise of a results refund? [copywriting-lessons-days-2-28.md] {vehicle: guarantee | stage: guarantee}
+- [ ] Are the strongest testimonials placed first? [copywriting-lessons-days-2-28.md] {vehicle: sales letter | stage: testimonials}
+- [ ] Does the close say what he must do next — the click, the form, the confirmation, and when the product arrives — without treating any of that as obvious? [quiet-persuasion.md] {vehicle: unclear | stage: action}
 - [ ] Is the cross-sell a different product that finishes the job, clearly connected, without a hard push or a pile of extras? [copywriting-lessons-days-2-28.md] {vehicle: cross-sell | stage: unclear}
 - [ ] Does welcome email 1 give the best promise and the offer at once, in benefits, in a confident voice? [copywriting-lessons-days-2-28.md] {vehicle: welcome sequence | stage: email 1}
 - [ ] Does each presale email do only its job — tease, why, what, how, or the bridge to the product — and tie intrigue to a concrete benefit? [copywriting-lessons-days-2-28.md] {vehicle: presale sequence | stage: PPLC, PLC1, PLC2, PLC3, PLC4}
@@ -34,3 +37,19 @@ Source: [copywriting-lessons-days-2-28.md] {vehicle: sales letter | stage: CTA}
 Day 13's guarantee specimen, for a course: "If you do not get {result} after having {proof of effort}, I will personally help you until you do."
 
 Source: [copywriting-lessons-days-2-28.md] {vehicle: guarantee | stage: after the price, or woven through the letter}
+
+Day 18, for a regulated market.
+
+Before: "If you don't achieve X outcome, you will get your money back."
+
+After: "If you don't achieve X outcome, I will offer you a full year of our service for free."
+
+Source: [copywriting-lessons-days-2-28.md] {vehicle: guarantee | stage: guarantee}
+
+Quiet Persuasion's urgency pair. No format is named.
+
+Pressure: "My offer is only available until next week."
+
+Urgency, from a real circumstance in the same story: "It will be a lot harder for you to switch industries when you are 45."
+
+Source: [quiet-persuasion.md] {vehicle: unclear | stage: unclear}

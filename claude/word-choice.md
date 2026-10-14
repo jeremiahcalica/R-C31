@@ -8,6 +8,7 @@ Same checks as `CHECKLIST.md`.
 - [ ] Does the liftnote subject line use an action verb, and drop filler, adverbs, and "very"? [copywriting-lessons-days-2-28.md] {vehicle: liftnote | stage: subject line}
 - [ ] Does every feature survive a "so what?" that lands on his life, not on another feature? [copywriting-lessons-days-2-28.md] {vehicle: unclear | stage: unclear}
 - [ ] Does the wording use his jargon, tone, and sentence shape, without parroting his lines? [quiet-persuasion.md] {vehicle: unclear | stage: unclear}
+- [ ] Where the moment is uncertain, are "explosive" and "massive" absent, with "stable," "resilient," or "sustainable" in their place when a reassurance word is needed? [quiet-persuasion.md] {vehicle: unclear | stage: unclear}
 - [ ] If a headline uses a power word, does that word have one job, and is the stack thin? [copywriting-lessons-days-2-28.md] {vehicle: headline | stage: hook}
 - [ ] If the headline is for a high-end product, does it use a status word such as Exclusive, Premium, or Elite? [copywriting-lessons-days-2-28.md] {vehicle: headline | stage: hook}
 - [ ] Are these absent: "It is not your fault," "You are not alone," "I help busy ___," "100% money back guarantee," "Look at this image," "Just imagine," "We've got you covered," "This changes everything," "Supercharge," "Elevate," "Skyrocket," "Optimize," "Unleash," "Level up," "Take it to the next level," "In today's day and age," "Elite," "Exclusive," "Premium," "Revolutionary"? [quiet-persuasion.md] {vehicle: persuasion attempt | stage: unclear}
