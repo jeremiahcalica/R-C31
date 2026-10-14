@@ -1,6 +1,6 @@
 # Hooks
 
-Same checks as `CHECKLIST.md`.
+Same checks as `CHECKLIST.md`. The advertorial "does not hard-sell" check is in `parked.md`.
 
 - [ ] In the first 10 lines, can the reader tell why he is being addressed, what is offered or teased, what he gets, and why to continue? [copywriting-lessons-days-2-28.md] {vehicle: email, ad, or sales letter | stage: first 10 lines}
 - [ ] Do the opening lines match his awareness, and get more direct as that awareness rises? [copywriting-lessons-days-2-28.md] {vehicle: sales message | stage: first sentences}
@@ -13,11 +13,10 @@ Same checks as `CHECKLIST.md`.
 - [ ] Does the subject line, including any surprise, fit the sender's ethos? [copywriting-lessons-days-2-28.md] {vehicle: email subject line | stage: subject line}
 - [ ] Is each fascination one or two sentences, a benefit, free of an unproved superlative, varied at the start, strongest first, and teased rather than fully told? [copywriting-lessons-days-2-28.md] {vehicle: fascination | stage: hook}
 - [ ] Does a sales-letter story hook open on a situation the reader already recognizes? [copywriting-lessons-days-2-28.md] {vehicle: sales letter | stage: hook}
-- [ ] Does an opening story hook without announcing its purpose? [quiet-persuasion.md] {vehicle: unclear | stage: hook}
-- [ ] Does a pain opening use one trigger event, sharp enough to feel and open enough for this audience to enter? [quiet-persuasion.md] {vehicle: unclear | stage: openings, hooks, and ledes}
+- [ ] Does an opening story hook without announcing its purpose? [quiet-persuasion.md] {vehicle: ALL | stage: HOOK}
+- [ ] Does a pain opening use one trigger event, sharp enough to feel and open enough for this audience to enter? [quiet-persuasion.md] {vehicle: ALL | stage: HOOK}
 - [ ] Does the liftnote open in a short sentence or short paragraph, with a promise or intrigue at once? [copywriting-lessons-days-2-28.md] {vehicle: liftnote | stage: opening}
 - [ ] Is the liftnote subject line short and specific, with an immediate benefit, and free of a shame line such as "you'll always be a victim"? [copywriting-lessons-days-2-28.md] {vehicle: liftnote | stage: subject line}
-- [ ] Does the advertorial inform and build desire without a direct hard sell, and with the obvious hype kept low? [copywriting-lessons-days-2-28.md] {vehicle: advertorial | stage: unclear}
 - [ ] Does the VSL opening hit hard and stay visual and believable, without a Hollywood scene, and without requiring the promise inside the first 10 seconds? [copywriting-lessons-days-2-28.md] {vehicle: VSL | stage: opening}
 - [ ] Does the advertorial hook name who it is for and a benefit, in a pattern the lesson gives (weird product, authority, easy fix, list, goodbye-problem, "who else," everyday result, or doctor claim)? [copywriting-lessons-days-2-28.md] {vehicle: advertorial | stage: hook}
 
